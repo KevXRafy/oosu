@@ -1,0 +1,2 @@
+script_key = getgenv().oosu.StartUP.Key;
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d63e5686d4bbd28fd2bac2c1b772900a.lua"))()
